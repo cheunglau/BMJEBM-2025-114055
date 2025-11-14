@@ -1,4 +1,4 @@
-#**Appendix 1. Four prompts for LLMs to assess risk of bias in randomized clinical trials**
+# **Appendix 1. Four prompts for LLMs to assess risk of bias in randomized clinical trials**
 ### **Direct Command**
 Based on the evaluation criteria, assess the risk of bias of RCT. There are three options for the risk of bias: "Low risk," "Unclear risk," and "High risk." There are a total of 7 domains. 1.1Random sequence generation 1.2Allocation concealment 2.1 Blinding of participants and personnel 3.1 Blinding of outcome assessment 4.1 Incomplete outcome data 5.1 Selective reporting 6.1 Other sources of bias.
 ### **Command with reference**
